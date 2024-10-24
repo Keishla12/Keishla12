@@ -8,7 +8,6 @@
  <h2>Sobre mi</h2>
  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
  <h4>Como Tecnólogo en Análisis y Desarrollo de Software, poseo una experiencia integral en el desarrollo tanto frontend como backend, lo que me permite crear soluciones tecnológicas escalables y eficientes. Mi sólidos conocimientos en bases de bases de datos y diseño de arquitecturas de software me distingue en el campo. Me caracterizo por mi agilidad en el aprendizaje, mi habilidad para colaborar efectivamente en equipo y mi enfoque creativo en la resolución de problemas, cualidades que aplico con dedicación en cada proyecto que emprendo.</h4>
  <h1>Información sobre los lenguajes de programación</h1>
  <h1>Proyectos</h1>
