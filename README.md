@@ -90,5 +90,8 @@
 </a>
 </p>
 
-<h1 align="center">Estado Git</h1>
+# Mis Estadísticas de Git
+
+![Commits](https://img.shields.io/badge/Commits-50-brightgreen?style=flat-square)
+![Accesos a Git](https://img.shields.io/badge/Accesos%20a%20Git-10-brightgreen?style=flat-square)
 
