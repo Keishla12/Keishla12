@@ -11,7 +11,9 @@
 <div align="center">
  <h2>Sobre mí 🤗</h2>
  <p>👩‍💻 Soy una chica a la cual le encanta el mundo de la innovación y la tecnologia, poseo un gran conocimiento en el desarrollo de software a nivel de web y móvil, teniendo un gran aprendizaje en varias tecnologias.</p>
-  <p>🫂 Me encaanta trabajar en equipo, ya que se me facilita la comunicación e integración con las personas</p>
+  <p>🫂 Me encanta trabajar en equipo, ya que se me facilita la comunicación e integración con las personas</p>
+  <p>🖥️ Soy una desarrolladora web y móvil full stack</p>
+  <p>👩‍🎨 Me encanta la parte frontend de los proyectos</p>
 </div>
 <br></br>
 
