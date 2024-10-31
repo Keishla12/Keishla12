@@ -53,6 +53,17 @@
 
 </p>
 
+<div align="center" style="margin-top: 20px;">
+<h3>Backend</h3>
+</div>
+
+<p aling="center">
+<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp;
+
+</p>
+
 <br>
 
 <h1 align="center">Proyectos</h1>
