@@ -43,6 +43,13 @@
 <img src="https://img.shields.io/badge/angular-%C20C1B.svg?style=for-the-badge&logo=angular&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/preact-67C8F2?style=for-the-badge&logo=preact&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/laravel-%23FF2D55.svg?style=for-the-badge&logo=laravel&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/django-%23092e20?style=for-the-badge&logo=django&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/tkinter-008000?style=for-the-badge&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
 
 </p>
 
