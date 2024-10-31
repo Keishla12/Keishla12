@@ -60,9 +60,8 @@
 <p aling="center">
 <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">&nbsp;
+
 
 
 </p>
@@ -75,6 +74,8 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
 
 
 </p>
