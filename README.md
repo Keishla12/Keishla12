@@ -9,8 +9,9 @@
 <img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <div align="center">
- <h2>Sobre mí</h2>
- <p>Como Tecnólogo en Análisis y Desarrollo de Software, poseo una experiencia integral en el desarrollo tanto frontend como backend, lo que me permite crear soluciones tecnológicas escalables y eficientes. Mis sólidos conocimientos en bases de datos y diseño de arquitecturas de software me distinguen en el campo. Me caracterizo por mi agilidad en el aprendizaje, mi habilidad para colaborar efectivamente en equipo y mi enfoque creativo en la resolución de problemas, cualidades que aplico con dedicación en cada proyecto que emprendo.</p>
+ <h2>Sobre mí 🤗</h2>
+ <p>👩‍💻 Soy una chica a la cual le encanta el mundo de la innovación y la tecnologia, poseo un gran conocimiento en el desarrollo de software a nivel de web y móvil, teniendo un gran aprendizaje en varias tecnologias.</p>
+  <p>🫂 Me encaanta trabajar en equipo, ya que se me facilita la comunicación e integración con las personas</p>
 </div>
 <br></br>
 
