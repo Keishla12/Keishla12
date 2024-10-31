@@ -32,8 +32,9 @@
 
 </p>
 
-<p align="center" margin-top="20px"></p>
+<div align="center" style="margin-top: 20px;">
 <h3>Frontend</h3>
+</div>
 
 <br>
 
