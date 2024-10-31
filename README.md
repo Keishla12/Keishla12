@@ -6,7 +6,7 @@
  <h1>Hola, soy Keishla Camargo</h1>
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="margin-right: 20px;" />
+  <img width="100px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="margin-right: 20px;" />
   
   <div align="center">
     <h2>Sobre mí 🤗</h2>
