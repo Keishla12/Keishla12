@@ -5,16 +5,18 @@
 <div align="center">
  <h1>Hola, soy Keishla Camargo</h1>
 </div>
-
-<img align="right" width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-<div align="center">
- <h2>Sobre mí 🤗</h2>
- <p>👩‍💻 Soy una chica a la cual le encanta el mundo de la innovación y la tecnologia, poseo un gran conocimiento en el desarrollo de software a nivel de web y móvil, teniendo un gran aprendizaje en varias tecnologias.</p>
-  <p>🫂 Me encanta trabajar en equipo, ya que se me facilita la comunicación e integración con las personas</p>
-  <p>🖥️ Soy una desarrolladora web y móvil full stack con conocimientos en la parte frontend, bases de datos y backend</p>
-  <p>👩‍🎨 Me encanta trabajar la parte frontend de los proyectos móviles y web, para llevar mi imaginación a otro nivel con ayuda de la tecnologia y la programación</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="margin-right: 20px;" />
+  
+  <div align="center">
+    <h2>Sobre mí 🤗</h2>
+    <p>👩‍💻 Soy una chica a la cual le encanta el mundo de la innovación y la tecnología, poseo un gran conocimiento en el desarrollo de software a nivel de web y móvil, teniendo un gran aprendizaje en varias tecnologías.</p>
+    <p>🫂 Me encanta trabajar en equipo, ya que se me facilita la comunicación e integración con las personas.</p>
+    <p>🖥️ Soy una desarrolladora web y móvil full stack con conocimientos en la parte frontend, bases de datos y backend.</p>
+    <p>👩‍🎨 Me encanta trabajar la parte frontend de los proyectos móviles y web, para llevar mi imaginación a otro nivel con ayuda de la tecnología y la programación.</p>
+  </div>
 </div>
+
 <br></br>
 
 <div align="center" style="margin-top: 20px;">
