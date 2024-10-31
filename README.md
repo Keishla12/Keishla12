@@ -14,10 +14,6 @@
     <p>👩‍🎨 Me encanta trabajar la parte frontend de los proyectos móviles y web, para llevar mi imaginación a otro nivel con ayuda de la tecnología y la programación.</p>
   </div>
 
-  <img width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-</div>
-
-
 
 
 <br></br>
