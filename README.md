@@ -12,6 +12,7 @@
  <h2>Sobre mí</h2>
  <p>Como Tecnólogo en Análisis y Desarrollo de Software, poseo una experiencia integral en el desarrollo tanto frontend como backend, lo que me permite crear soluciones tecnológicas escalables y eficientes. Mis sólidos conocimientos en bases de datos y diseño de arquitecturas de software me distinguen en el campo. Me caracterizo por mi agilidad en el aprendizaje, mi habilidad para colaborar efectivamente en equipo y mi enfoque creativo en la resolución de problemas, cualidades que aplico con dedicación en cada proyecto que emprendo.</p>
 </div>
+<br></br>
 
 <div align="center" style="margin-top: 20px;">
     <h3>- 🔭 Mis Conocimientos Tecnológicos</h3>
