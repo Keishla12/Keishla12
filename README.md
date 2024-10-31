@@ -19,13 +19,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
-
- <h3>* Java = En la parte Backend</h3>
- <h3>* JavaScript = A nivel de Frontend y Backend</h3>
- <h3>* Python = En ambos campos Frontend y Backend</h3>
- <h3>* C# = A nivel de Frontend</h3>
- <h3>* PHP = En ambos campos de Fronetnd y Backend</h3>
  
  <h1>Proyectos</h1>
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Mis redes sociales</h2>
