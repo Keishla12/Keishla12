@@ -54,7 +54,7 @@
 </p>
 
 <div align="center" style="margin-top: 20px;">
-<h3>Backend</h3>
+<h3 align="center">Backend</h3>
 </div>
 
 <p aling="center">
