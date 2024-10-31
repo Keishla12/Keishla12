@@ -12,7 +12,7 @@
 
  <h1>Información sobre los lenguajes de programación</h1>
  <span>Estos son algunos de los lenguajes de programación más destacados sobre los que tengo conocimiento, teniendo en cuenta que tanto a nivel de Frontend y Backend se manejar una gran variedad de frameworks adaptandolos a los diferenetes lenguajes de programación: </span>
-
+<br></br><br></br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
  <h3>* Java = En la parte Backend</h3>
