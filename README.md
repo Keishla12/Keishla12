@@ -10,10 +10,10 @@
  <h2>Sobre mi</h2>
  <h4>Como Tecnólogo en Análisis y Desarrollo de Software, poseo una experiencia integral en el desarrollo tanto frontend como backend, lo que me permite crear soluciones tecnológicas escalables y eficientes. Mi sólidos conocimientos en bases de bases de datos y diseño de arquitecturas de software me distingue en el campo. Me caracterizo por mi agilidad en el aprendizaje, mi habilidad para colaborar efectivamente en equipo y mi enfoque creativo en la resolución de problemas, cualidades que aplico con dedicación en cada proyecto que emprendo.</h4>
 
- <h1>Información sobre los lenguajes de programación</h1>
 
 <br></br>
-
+ <h1>Información sobre los lenguajes de programación</h1>
+ 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
