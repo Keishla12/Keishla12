@@ -64,6 +64,18 @@
 
 </p>
 
+<div align="center" style="margin-top: 20px;">
+<h3>Bases de datos</h3>
+</div>
+
+<p aling="center">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
+
+
+</p>
+
 <br>
 
 <h1 align="center">Proyectos</h1>
