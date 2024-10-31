@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBhNHZ0NnpnemxhNzM0bzJ1ajdvbjdrcjQycjM2cW5rY2tnMW12NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eEkMQpOdOY58tPbLY6/200w.webp" width="100">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBhNHZ0NnpnemxhNzM0bzJ1ajdvbjdrcjQycjM2cW5rY2tnMW12NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eEkMQpOdOY58tPbLY6/200w.webp" width="150">
 </p>
 
-<div align="center">
+<div align="center" font-size="30%">
  <h1>Hola soy Keishla Camargo</h1>
   </div>
     <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
