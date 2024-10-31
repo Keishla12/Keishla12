@@ -36,6 +36,16 @@
 <h3>Frontend</h3>
 </div>
 
+<p aling="center">
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/angular-%C20C1B.svg?style=for-the-badge&logo=angular&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+
+</p>
+
 <br>
 
 <h1 align="center">Proyectos</h1>
