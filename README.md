@@ -15,7 +15,7 @@
 <br></br>
 
 <div align="center" style="margin-top: 20px;">
-    <h3>- 🔭 Mis Conocimientos Tecnológicos</h3>
+    <h1 text-color="#f00cd">- 🔭 Mis Conocimientos Tecnológicos</h1>
 </div>
 <div align="center" style="margin-top: 20px;">
   <h3> Lenguajes de programación</h3>
