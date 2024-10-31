@@ -90,8 +90,16 @@
 </a>
 </p>
 
-# Mis Estadísticas de Git
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-![Commits](https://img.shields.io/badge/Commits-50-brightgreen?style=flat-square)
-![Accesos a Git](https://img.shields.io/badge/Accesos%20a%20Git-10-brightgreen?style=flat-square)
+[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+</div>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
